@@ -1,0 +1,5 @@
+/Users/rrast/Desktop/csvVisualisator/cmake-build-debug/CMakeFiles/drawCsv.dir
+/Users/rrast/Desktop/csvVisualisator/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/rrast/Desktop/csvVisualisator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/rrast/Desktop/csvVisualisator/cmake-build-debug/CMakeFiles/drawCsv_autogen_timestamp_deps.dir
+/Users/rrast/Desktop/csvVisualisator/cmake-build-debug/CMakeFiles/drawCsv_autogen.dir
